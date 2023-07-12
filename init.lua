@@ -1,4 +1,4 @@
-require('miloud.options')
+require('miloud._options')
 require('miloud.plugins')
 require('miloud.keymaps')
 require('miloud.lualine')
